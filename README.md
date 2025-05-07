@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Personal Portfolio Website
 
 A modern, responsive portfolio website built with React. This website showcases my skills, experience, and projects.
@@ -44,3 +45,6 @@ Visit the live website at: [Your Website URL]
 ## Contact
 
 Feel free to reach out to me through the contact form on the website or via the social media links provided.
+=======
+# erkanportfolio
+>>>>>>> ec3cefcedae21cbd7f94d624e7d8a30d7d880907
