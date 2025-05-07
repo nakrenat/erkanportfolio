@@ -80,8 +80,8 @@ const About = () => {
               <motion.img 
                 whileHover={{ scale: 1.05 }}
                 transition={{ duration: 0.3 }}
-                src="me.jpg" 
-                alt="Profile" 
+                src="/profile.jpg"
+                alt="Profile"
                 style={{
                   width: '100%',
                   height: '100%',
